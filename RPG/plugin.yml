@@ -1,0 +1,5 @@
+name: ItemTag
+main: cn.caoicg.rpg.ItemListMain
+version: 1.0.0
+api: ["1.0.0"]
+description: "物品显示名称插件"
