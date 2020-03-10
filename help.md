@@ -3,6 +3,12 @@
 
 使用方法：放入plugins文件夹即可
 
+目前只加入了部分物品，持续加入中
+
+没有加入显示名字的显示为null(空)
+
+如果里面没你想要的物品，或者rpg武器需要修改显示名字，请使用下面api进行操作
+
 开发者API:
 
 1.导入包 import cn.caoicg.rpg.ItemListMain;
